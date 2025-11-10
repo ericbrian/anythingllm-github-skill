@@ -1,6 +1,6 @@
 {
-  "name": "github-repo-reader",
-  "hubId": "github-repo-reader",
+  "name": "AnythingLLM-GitHub-Skill",
+  "hubId": "AnythingLLM-GitHub-Skill",
   "version": "1.0.0",
   "schema": "v1",
   "active": true,
