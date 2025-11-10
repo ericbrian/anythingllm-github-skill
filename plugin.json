@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "schema": "v1",
   "active": true,
-  "description": "Read and search content from public GitHub repositories",
-  "author": "@your-username",
-  "author_url": "https://github.com/your-username",
+  "description": "Read and search content from public GitHub repositories. Created with AI.",
+  "author": "@ericbrian",
+  "author_url": "https://github.com/ericbrian",
   "license": "MIT",
   "setup_args": {
     "GITHUB_TOKEN": {
